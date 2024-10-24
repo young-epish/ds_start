@@ -35,7 +35,7 @@
 1. Клонируйте репозиторий на ваш компютер:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/young-epish/ds_start.git
 ```
 2. Установите зависимости:
 
