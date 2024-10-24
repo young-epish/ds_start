@@ -1,0 +1,6 @@
+lightgbm==4.5.0
+numpy==1.26.4
+pandas==1.5.3
+PyYAML==6.0.1
+scikit-learn==1.0.2
+streamlit==1.39.0
